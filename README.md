@@ -46,10 +46,10 @@ O **PigmentaApp** resolve isso: o profissional monta o orçamento completo pelo 
 ## 📸 Telas
 
 <p align="center">
-  <img src="assets/tela-1.png" width="180" alt="Tela 1" />
-  <img src="assets/tela-2.png" width="180" alt="Tela 2" />
-  <img src="assets/tela-3.png" width="180" alt="Tela 3" />
-  <img src="assets/tela-4.png" width="180" alt="Tela 4" />
+  <img src="assets/tela-1.jpeg" width="180" alt="Tela 1" />
+  <img src="assets/tela-2.jpeg" width="180" alt="Tela 2" />
+  <img src="assets/tela-3.jpeg" width="180" alt="Tela 3" />
+  <img src="assets/tela-4.jpeg" width="180" alt="Tela 4" />
 </p>
 
 ## 🏗 Arquitetura
