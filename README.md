@@ -11,6 +11,9 @@
   <a href="https://pigmentapp-prod.web.app">
     <img src="https://img.shields.io/badge/Site-pigmentapp-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Site" />
   </a>
+  <a href="https://www.instagram.com/pigmenta.app">
+    <img src="https://img.shields.io/badge/Instagram-@pigmenta.app-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
@@ -56,7 +59,7 @@ O **PigmentaApp** resolve isso: o profissional monta o orçamento completo pelo 
 
 App Android em **Flutter** que usa o **Firebase** como back-end, sem servidor próprio:
 
-- **Authentication** controla o acesso (e-mail/senha e Google)
+- **Authentication** controla o acesso (e-mail/senha)
 - **Cloud Firestore** guarda perfil e orçamentos separados por usuário, com atualização em tempo real
 - **Storage** guarda o logo da empresa
 - **Hosting** serve o site institucional, com Termos de Uso e Política de Privacidade
@@ -83,9 +86,10 @@ Desenvolvi o projeto de ponta a ponta: ideia, app, modelagem dos dados, publica�
 
 - 📱 [PigmentaApp na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp)
 - 🌐 [Site oficial](https://pigmentapp-prod.web.app)
+- 📸 [Instagram @pigmenta.app](https://www.instagram.com/pigmenta.app)
 - 🔒 [Política de Privacidade](https://pigmentapp-prod.web.app/privacidade.html)
 - 📜 [Termos de Uso](https://pigmentapp-prod.web.app/termos.html)
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/paulofojunior) · [junior.pfo@gmail.com](mailto:junior.pfo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/paulofojunior) · [Suporte](mailto:pigmenta.suporte@gmail.com)
