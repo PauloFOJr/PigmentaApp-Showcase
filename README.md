@@ -86,7 +86,7 @@ Desenvolvi o projeto de ponta a ponta: ideia, app, modelagem dos dados, publica�
 
 - 📱 [PigmentaApp na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp)
 - 🌐 [Site oficial](https://pigmentapp-prod.web.app)
-- 📸 [Instagram @pigmenta.app](https://www.instagram.com/pigmenta.app)
+- 📸 [Instagram @pigmenta.app](https://www.instagram.com/pigment.app)
 - 🔒 [Política de Privacidade](https://pigmentapp-prod.web.app/privacidade.html)
 - 📜 [Termos de Uso](https://pigmentapp-prod.web.app/termos.html)
 
