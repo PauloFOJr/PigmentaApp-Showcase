@@ -11,8 +11,8 @@
   <a href="https://pigmentapp-prod.web.app">
     <img src="https://img.shields.io/badge/Site-pigmentapp-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Site" />
   </a>
-  <a href="https://www.instagram.com/pigmenta.app">
-    <img src="https://img.shields.io/badge/Instagram-@pigmenta.app-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/pigment.app">
+    <img src="https://img.shields.io/badge/Instagram-@pigment.app-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
