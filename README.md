@@ -8,7 +8,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp">
     <img src="https://img.shields.io/badge/Google_Play-Baixar-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
   </a>
-  <a href="https://pigmentapp-prod.web.app">
+  <a href="https://pigmentapp.paulojr.dev.br">
     <img src="https://img.shields.io/badge/Site-pigmentapp-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Site" />
   </a>
   <a href="https://www.instagram.com/pigment.app">
@@ -85,10 +85,10 @@ Desenvolvi o projeto de ponta a ponta: ideia, app, modelagem dos dados, publica�
 ## 🔗 Links
 
 - 📱 [PigmentaApp na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp)
-- 🌐 [Site oficial](https://pigmentapp-prod.web.app)
+- 🌐 [Site oficial](https://pigmentapp.paulojr.dev.br)
 - 📸 [Instagram @pigmenta.app](https://www.instagram.com/pigment.app)
-- 🔒 [Política de Privacidade](https://pigmentapp-prod.web.app/privacidade.html)
-- 📜 [Termos de Uso](https://pigmentapp-prod.web.app/termos.html)
+- 🔒 [Política de Privacidade](https://pigmentapp.paulojr.dev.br/privacidade)
+- 📜 [Termos de Uso](https://pigmentapp.paulojr.dev.br/termos)
 
 ## 📫 Contato
 
